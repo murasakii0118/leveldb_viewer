@@ -1,0 +1,5 @@
+#pragma once
+#include "@JSON_HEADER@"
+namespace viewer {
+using Json = nlohmann::json;
+}
